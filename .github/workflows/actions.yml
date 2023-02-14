@@ -16,6 +16,7 @@ jobs:
           sudo apt-get install -y -f build-essential g++ cmake
 
   build:
+    needs: install
     runs-on: ubuntu-latest
     steps:
         - uses: actions/checkout@v3
