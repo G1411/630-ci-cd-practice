@@ -1,7 +1,8 @@
 #include<iostream>
+using namespce std;
 
 void main()
 {
-    cout<<"ci/cd practice"\n;
+    cout<<"ci/cd practice";
 
 }
