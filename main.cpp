@@ -1,8 +1,10 @@
 #include<iostream>
 using namespce std;
 
-void main()
+int main()
 {
     cout<<"ci/cd practice";
+    
+    return 0;
 
 }
