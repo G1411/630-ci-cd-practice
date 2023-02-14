@@ -3,7 +3,7 @@ using namespce std;
 
 int main()
 {
-    cout<<"ci/cd practice";
+    std::cout<<"ci/cd practice";
     
     return 0;
 
