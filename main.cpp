@@ -5,6 +5,6 @@ int main()
 {
     std::cout<<"ci/cd practice";
     
-    return 0;
+    return 0
 
 }
